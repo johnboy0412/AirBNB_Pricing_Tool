@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+xgboost
+scikit-learn
+altair
+joblib
+anthropic
+shap
+python-dotenv
